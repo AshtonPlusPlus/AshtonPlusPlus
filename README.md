@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Programming**
 
-- 📫 How to reach me **email me at ashton@smoking.lol**
+- 📫 How to reach me **email me at kernelmodecheatdriver@proton.me**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashtonplusplus&show_icons=true&locale=en" alt="ashtonplusplus" /></p>
 
